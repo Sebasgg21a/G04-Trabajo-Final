@@ -1,0 +1,512 @@
+2026-05-27 22:39:06,543 - INFO - Usuario registrado exitosamente: Samuel : 123456
+2026-05-27 22:39:43,636 - DEBUG - Usuario admin no encontrado en registro_usuarios.csv
+2026-05-27 22:39:54,350 - INFO - Usuario registrado exitosamente: admin : admin123
+2026-05-27 22:40:24,430 - DEBUG - Usuario santiago no encontrado en registro_usuarios.csv
+2026-05-27 22:40:32,726 - INFO - Usuario registrado exitosamente: santiago : santiago123
+2026-05-27 22:40:38,108 - DEBUG - Usuario santiago no encontrado en registro_usuarios.csv
+2026-05-27 22:42:10,661 - DEBUG - Usuario Santiago no encontrado en registro_usuarios.csv
+2026-05-27 22:43:24,516 - DEBUG - Usuario santiago} no encontrado en registro_usuarios.csv
+2026-05-27 22:43:27,516 - WARNING - Contraseña demasiado corta, min: 6 caracteres, para usuario: santiago}
+2026-05-27 22:43:32,307 - INFO - Usuario registrado exitosamente: santiago} : abc123
+2026-05-27 22:43:39,785 - WARNING - Registro rechazado - Usuario duplicado: santiago
+2026-05-27 22:45:18,358 - DEBUG - Usuario C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/iniciar_sesion.py no encontrado en registro_usuarios.csv
+2026-05-27 22:45:20,016 - INFO - Usuario registrado exitosamente: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/iniciar_sesion.py : C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/iniciar_sesion.py
+2026-05-27 22:45:25,236 - WARNING - Usuario no encontrado: juan
+2026-05-27 22:53:29,740 - WARNING - Usuario no encontrado: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/iniciar_sesion.py
+2026-05-27 22:53:39,915 - WARNING - Usuario no encontrado: Juan
+2026-05-27 22:53:47,509 - DEBUG - Usuario Juan no encontrado en registro_usuarios.csv
+2026-05-27 22:53:49,805 - INFO - Usuario registrado exitosamente: Juan : 123456
+2026-05-27 22:53:58,173 - INFO - Inicio de sesión exitoso: Juan
+2026-05-27 22:57:52,571 - WARNING - Registro rechazado - Usuario duplicado: Juan
+2026-05-27 22:57:59,228 - DEBUG - Usuario Goku no encontrado en registro_usuarios.csv
+2026-05-27 22:58:01,819 - INFO - Usuario registrado exitosamente: Goku : 123456
+2026-05-27 22:59:24,122 - DEBUG - Usuario Juanmanuel no encontrado en registro_usuarios.csv
+2026-05-27 22:59:52,710 - INFO - Usuario registrado exitosamente: Juanmanuel : 123456 : C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/registro_usuarios.py
+2026-05-27 22:59:57,571 - DEBUG - Usuario Juans no encontrado en registro_usuarios.csv
+2026-05-27 23:01:00,545 - INFO - Usuario registrado exitosamente: Juans : 123456 : C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/registro_usuarios.py
+2026-05-27 23:01:04,049 - DEBUG - Usuario asdfghj no encontrado en registro_usuarios.csv
+2026-05-27 23:03:17,798 - INFO - Usuario registrado exitosamente: asdfghj : 123654 : C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/registro_usuarios.py
+2026-05-27 23:03:20,378 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:03:35,806 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:00,157 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:07,977 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:08,703 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:08,874 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,010 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,146 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,266 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,412 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,540 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,686 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,821 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:09,968 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:10,090 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:10,220 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:10,351 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:04:10,460 - WARNING - Intento de registro con usuario vacío
+2026-05-27 23:09:30,571 - DEBUG - Usuario :\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/registro_usuarios.py no encontrado en registro_usuarios.csv
+2026-05-27 23:09:34,077 - WARNING - Contraseña demasiado corta, min: 6 caracteres, para usuario: :\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/registro_usuarios.py
+2026-05-27 23:09:43,996 - INFO - Usuario registrado exitosamente: :\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/registro_usuarios.py : 123456 : usuario
+2026-05-27 23:10:44,834 - DEBUG - Usuario sebastian no encontrado en registro_usuarios.csv
+2026-05-27 23:10:49,598 - INFO - Usuario registrado exitosamente: sebastian : 123456 : usuario
+2026-05-27 23:11:33,317 - WARNING - Usuario no encontrado: goku
+2026-05-27 23:15:26,558 - WARNING - Contraseña incorrecta para usuario: sebastian
+2026-05-27 23:16:53,337 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:26,068 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:26,820 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:27,292 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:27,521 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:27,701 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:27,847 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: sebastian
+2026-05-27 23:17:30,777 - WARNING - Contraseña incorrecta para usuario: sebastian
+2026-05-27 23:18:28,395 - WARNING - Contraseña incorrecta para usuario: sebastian
+2026-05-27 23:18:37,610 - INFO - Inicio de sesión exitoso: sebastian
+2026-05-27 23:20:31,275 - WARNING - Usuario no encontrado: santiago
+2026-05-27 23:29:18,890 - WARNING - Contraseña incorrecta para usuario: sebastian
+2026-05-27 23:29:22,640 - WARNING - Contraseña incorrecta para usuario: sebastian
+2026-05-27 23:29:28,666 - WARNING - Usuario no encontrado: juka
+2026-05-27 23:29:42,286 - WARNING - Contraseña incorrecta para usuario: sebastian
+2026-05-27 23:29:44,705 - INFO - Inicio de sesión exitoso: sebastian
+2026-05-28 20:59:16,341 - INFO - Inicio de sesión exitoso: sebastian
+2026-05-28 20:59:44,975 - WARNING - Usuario no encontrado: sebastian
+2026-05-28 21:00:19,861 - WARNING - Usuario no encontrado: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/iniciar_sesion.py
+2026-05-28 21:00:26,945 - WARNING - Usuario no encontrado: sebastian
+2026-05-28 21:00:38,036 - WARNING - Contraseña incorrecta para usuario: sebas
+2026-05-28 21:04:16,433 - WARNING - Contraseña incorrecta para usuario: sebas
+2026-05-28 21:06:03,935 - WARNING - Contraseña incorrecta para usuario: sebas
+2026-05-28 21:06:07,359 - WARNING - Contraseña incorrecta para usuario: sebas
+2026-05-28 21:06:08,991 - WARNING - Contraseña incorrecta para usuario: sebas
+2026-05-28 21:06:08,993 - WARNING - Usuario bloqueado por múltiples intentos fallidos: sebas
+2026-05-28 21:06:35,260 - WARNING - Contraseña incorrecta para usuario: sebas
+2026-05-28 21:06:35,262 - WARNING - Usuario bloqueado por múltiples intentos fallidos: sebas
+2026-05-28 21:07:33,841 - WARNING - Intento de inicio de sesión con usuario bloqueado: sebas
+2026-05-28 21:13:45,751 - DEBUG - Usuario cristiano no encontrado en registro_usuarios.csv
+2026-05-28 21:13:59,536 - INFO - Usuario registrado exitosamente: cristiano : usuario
+2026-05-28 21:15:09,588 - WARNING - Registro rechazado - Usuario duplicado: cristiano
+2026-05-28 21:15:33,016 - DEBUG - Usuario messi no encontrado en registro_usuarios.csv
+2026-05-28 21:15:38,854 - INFO - Usuario registrado exitosamente: messi : general
+2026-05-28 21:29:41,503 - INFO - Inicio de sesión exitoso: cristiano
+2026-05-28 21:29:53,194 - INFO - Inicio de sesión exitoso: messi
+2026-05-28 21:30:38,147 - INFO - Inicio de sesión exitoso: admin
+2026-05-28 21:30:55,247 - WARNING - Usuario no encontrado: admin
+2026-05-28 21:31:19,366 - INFO - Inicio de sesión exitoso: admin
+2026-05-28 21:33:27,439 - INFO - Inicio de sesión exitoso: admin
+2026-05-28 22:11:06,054 - INFO - Inicio de sesión exitoso: cristiano
+2026-05-28 22:12:31,053 - INFO - Usuario registrado exitosamente: Samuel : usuario
+2026-05-28 22:15:31,848 - INFO - Inicio de sesión exitoso: Samuel
+2026-05-28 22:16:18,840 - INFO - Inicio de sesión exitoso: Samuel
+2026-05-28 22:16:44,025 - WARNING - Contraseña incorrecta para usuario: Samuel
+2026-05-28 22:16:45,979 - WARNING - Contraseña incorrecta para usuario: Samuel
+2026-05-28 22:17:00,064 - INFO - Inicio de sesión exitoso: Samuel
+2026-05-28 22:21:25,000 - INFO - Inicio de sesión exitoso: cristiano
+2026-05-28 22:59:51,543 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 22:59:51,544 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:00:29,165 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 23:00:29,165 - INFO - Administrador seleccionó listar usuarios.
+2026-05-28 23:01:23,207 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 23:01:23,207 - INFO - Administrador seleccionó listar usuarios.
+2026-05-28 23:01:47,751 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 23:01:47,752 - INFO - Administrador seleccionó listar usuarios.
+2026-05-28 23:04:50,477 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 23:04:51,218 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 23:05:34,170 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:05:37,654 - DEBUG - Usuario samuel no encontrado en registro_usuarios.csv
+2026-05-28 23:06:43,045 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:06:46,128 - DEBUG - Usuario aguacate no encontrado en registro_usuarios.csv
+2026-05-28 23:08:41,463 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:08:44,798 - DEBUG - Usuario mbappe no encontrado en registro_usuarios.csv
+2026-05-28 23:13:47,291 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:14:43,263 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:16:01,724 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:17:00,986 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:19:46,563 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:20:42,630 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:20:45,072 - INFO - Usuario bloqueado: andres
+2026-05-28 23:34:44,445 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:34:47,307 - WARNING - Intento de bloquear un usuario ya bloqueado: andres
+2026-05-28 23:35:26,862 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:35:47,580 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:35:52,069 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:35:54,988 - WARNING - Intento de bloquear usuario inexistente: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/menus.py
+2026-05-28 23:35:56,208 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:35:57,475 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:36:44,802 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:37:03,814 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:37:05,496 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:37:09,701 - WARNING - Intento de bloquear un usuario ya bloqueado: andres
+2026-05-28 23:37:09,702 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:37:48,441 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:37:51,559 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:38:48,490 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:38:57,754 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:39:46,757 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:39:54,171 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:39:56,255 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:39:58,830 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:40:27,031 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:40:29,455 - INFO - Administrador seleccionó consultar resultados.
+2026-05-28 23:40:42,836 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:40:55,112 - INFO - Estado cambiado a bloqueado para usuario: cristiano
+2026-05-28 23:40:55,114 - INFO - Usuario:cristiano bloqueado con éxito:
+2026-05-28 23:40:55,114 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-28 23:42:01,404 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-28 23:42:12,739 - INFO - Se han consultado los usuarios registrados.
+2026-05-28 23:42:12,740 - INFO - Administrador seleccionó listar usuarios.
+2026-05-29 00:00:29,355 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-29 00:00:31,395 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:00:34,871 - WARNING - Intento de eliminarar al admin por defecto: andres
+2026-05-29 00:02:40,788 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:02:43,235 - INFO - Usuario:andres eliminado con éxito:
+2026-05-29 00:02:51,252 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:02:53,440 - INFO - Usuario:messi eliminado con éxito:
+2026-05-29 00:03:18,605 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:03:22,339 - INFO - Usuario:cristiano eliminado con éxito:
+2026-05-29 00:03:32,411 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:03:37,156 - WARNING - Intento de eliminar un admin: admin
+2026-05-29 00:04:01,419 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:04:03,707 - WARNING - Intento de eliminar un admin: admin
+2026-05-29 00:04:16,221 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:04:17,888 - WARNING - Intento de eliminar al admin por defecto: admin
+2026-05-29 00:04:24,378 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:04:26,861 - DEBUG - Usuario samuel no encontrado en registro_usuarios.csv
+2026-05-29 00:04:26,861 - WARNING - Intento de eliminar usuario inexistente: samuel
+2026-05-29 00:04:28,841 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:04:31,490 - INFO - Usuario:Samuel eliminado con éxito:
+2026-05-29 00:04:47,624 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:05:04,465 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:05:29,163 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:05:56,630 - DEBUG - Usuario C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/funciones_administrador.py no encontrado en registro_usuarios.csv
+2026-05-29 00:05:56,630 - WARNING - Intento de eliminar usuario inexistente: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/funciones_administrador.py
+2026-05-29 00:05:58,603 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:06:01,049 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,050 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,050 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,050 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,050 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,050 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,050 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:06:01,051 - INFO - Usuario:admin2 eliminado con éxito:
+2026-05-29 00:07:52,760 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:08:13,046 - INFO - Administrador cerró sesión.
+2026-05-29 00:08:29,865 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:09:43,303 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:10:22,268 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:10:56,063 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:16:34,873 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:17:03,116 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:17:35,544 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:18:38,494 - INFO - Administrador seleccionó consultar resultados.
+2026-05-29 00:18:45,985 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 00:19:03,429 - INFO - Estado cambiado a bloqueado para usuario: juan
+2026-05-29 00:19:03,429 - INFO - Intentos fallidos reseteados para usuario: juan
+2026-05-29 00:19:03,434 - INFO - Usuario:juan bloqueado con éxito:
+2026-05-29 00:19:03,434 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 00:19:07,849 - INFO - Administrador seleccionó desbloquear usuario.
+2026-05-29 00:19:10,127 - INFO - Estado cambiado a activo para usuario: juan
+2026-05-29 00:19:10,129 - INFO - Usuario:juan desbloqueado con éxito:
+2026-05-29 00:19:10,129 - INFO - Administrador seleccionó desbloquear usuario.
+2026-05-29 00:19:16,082 - INFO - Administrador seleccionó desbloquear usuario.
+2026-05-29 00:19:19,186 - WARNING - Intento de desbloquear un usuario ya activo: juan
+2026-05-29 00:19:19,187 - INFO - Administrador seleccionó desbloquear usuario.
+2026-05-29 00:19:25,263 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 00:19:28,074 - INFO - Estado cambiado a bloqueado para usuario: juan
+2026-05-29 00:19:28,074 - INFO - Intentos fallidos reseteados para usuario: juan
+2026-05-29 00:19:28,076 - INFO - Usuario:juan bloqueado con éxito:
+2026-05-29 00:19:28,076 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 00:19:29,413 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 00:19:31,255 - WARNING - Intento de bloquear un usuario ya bloqueado: juan
+2026-05-29 00:19:31,255 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 00:19:42,031 - INFO - Se han consultado los usuarios registrados.
+2026-05-29 00:19:42,031 - INFO - Administrador seleccionó consultar usuarios.
+2026-05-29 00:20:16,151 - INFO - Se han consultado los usuarios registrados.
+2026-05-29 00:20:16,151 - INFO - Administrador seleccionó consultar usuarios.
+2026-05-29 00:20:19,795 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:20:23,172 - WARNING - Intento de eliminar usuario inexistente: mariaa
+2026-05-29 00:20:23,173 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:20:31,452 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-29 00:20:53,385 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 00:20:55,829 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:20:57,335 - INFO - Usuario:maria eliminado con éxito:
+2026-05-29 00:20:57,337 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 00:21:00,465 - INFO - Administrador cerró sesión.
+2026-05-29 00:21:09,250 - WARNING - Intento de inicio de sesión con usuario bloqueado: juan
+2026-05-29 16:03:35,267 - INFO - Usuario registrado exitosamente: sebas : usuario
+2026-05-29 16:13:17,413 - INFO - Inicio de sesión exitoso: sebas
+2026-05-29 16:16:45,410 - INFO - Inicio de sesión exitoso: sebas
+2026-05-29 16:17:55,880 - INFO - Inicio de sesión exitoso: sebas
+2026-05-29 16:18:37,338 - INFO - Inicio de sesión exitoso: sebas
+2026-05-29 16:18:37,342 - INFO - Usuario accedió al menú de usuario.
+2026-05-29 16:18:59,193 - INFO - Inicio de sesión exitoso: sebas
+2026-05-29 16:18:59,197 - INFO - Usuario accedió al menú de usuario.
+2026-05-29 16:19:01,606 - INFO - Jugador seleccionó jugar partida.
+2026-05-29 16:19:10,666 - INFO - Jugador seleccionó ver estadísticas.
+2026-05-29 16:19:13,101 - INFO - Jugador cerró sesión.
+2026-05-29 16:19:31,121 - INFO - Usuario registrado exitosamente: GOKU : usuario
+2026-05-29 16:19:51,100 - WARNING - Contraseña incorrecta para usuario: GOKU
+2026-05-29 16:19:54,736 - WARNING - Contraseña incorrecta para usuario: GOKU
+2026-05-29 16:20:09,095 - WARNING - Contraseña incorrecta para usuario: GOKU
+2026-05-29 16:20:09,100 - WARNING - Usuario bloqueado por múltiples intentos fallidos: GOKU
+2026-05-29 16:23:19,645 - INFO - Inicio de sesión exitoso: GOKU
+2026-05-29 16:23:23,665 - INFO - Administrador seleccionó consultar resultados.
+2026-05-29 16:23:28,270 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 16:23:37,550 - WARNING - Intento de bloquear un usuario ya bloqueado: juan
+2026-05-29 16:23:37,550 - INFO - Administrador seleccionó bloquear usuario.
+2026-05-29 16:23:53,689 - INFO - Administrador seleccionó desbloquear usuario.
+2026-05-29 16:23:55,133 - INFO - Estado cambiado a activo para usuario: juan
+2026-05-29 16:23:55,135 - INFO - Usuario:juan desbloqueado con éxito:
+2026-05-29 16:23:55,135 - INFO - Administrador seleccionó desbloquear usuario.
+2026-05-29 16:24:27,029 - INFO - Se han consultado los usuarios registrados.
+2026-05-29 16:24:27,030 - INFO - Administrador seleccionó consultar usuarios.
+2026-05-29 16:25:27,688 - INFO - Se han consultado los usuarios registrados.
+2026-05-29 16:25:27,688 - INFO - Administrador seleccionó consultar usuarios.
+2026-05-29 16:25:38,613 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 16:25:45,829 - WARNING - Intento de eliminar al admin por defecto: admin
+2026-05-29 16:25:45,829 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 16:26:12,669 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-29 16:28:16,589 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 16:28:46,642 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-29 16:28:52,003 - INFO - Inicio de sesión exitoso: admin
+2026-05-29 16:28:59,205 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 16:29:00,631 - WARNING - Intento de eliminar al admin por defecto: admin
+2026-05-29 16:29:00,632 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 16:29:07,959 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 16:29:10,009 - INFO - Usuario:GOKU eliminado con éxito:
+2026-05-29 16:29:10,012 - INFO - Administrador seleccionó eliminar usuario.
+2026-05-29 17:28:13,086 - WARNING - Administrador ingresó una opción no numérica en el menú de administración.
+2026-05-30 15:32:11,586 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:32:14,962 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:32:21,470 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:32:21,472 - WARNING - Usuario bloqueado por múltiples intentos fallidos: admin
+2026-05-30 15:37:49,924 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 15:37:58,241 - WARNING - Intento de inicio de sesión con usuario bloqueado: admin
+2026-05-30 15:38:37,086 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:38:37,089 - WARNING - Usuario bloqueado por múltiples intentos fallidos: admin
+2026-05-30 15:38:46,806 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 15:38:54,908 - WARNING - Intento de bloqueo del administrador por defecto: admin
+2026-05-30 15:39:01,536 - WARNING - Intento de bloqueo del administrador por defecto: admin
+2026-05-30 15:39:31,067 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:39:31,069 - WARNING - Usuario bloqueado por múltiples intentos fallidos: admin
+2026-05-30 15:42:57,215 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:42:59,902 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:43:01,539 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:43:03,293 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:43:04,986 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:43:06,748 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:43:08,795 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:43:29,399 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 15:43:41,184 - WARNING - Contraseña incorrecta para usuario: juan
+2026-05-30 15:43:43,548 - WARNING - Contraseña incorrecta para usuario: juan
+2026-05-30 15:43:45,598 - WARNING - Contraseña incorrecta para usuario: juan
+2026-05-30 15:43:45,600 - WARNING - Usuario bloqueado por múltiples intentos fallidos: juan
+2026-05-30 15:44:04,478 - WARNING - Contraseña demasiado corta, min: 6 caracteres, para usuario: 123
+2026-05-30 15:44:17,542 - WARNING - Contraseña sin dígitos, min: 1 número, para usuario: 123
+2026-05-30 15:44:32,633 - WARNING - Selección de rol inválida: 3 para usuario: 123
+2026-05-30 15:44:35,775 - WARNING - Selección de rol inválida: 5 para usuario: 123
+2026-05-30 15:44:40,827 - WARNING - Selección de rol inválida: lkjhg para usuario: 123
+2026-05-30 15:44:42,621 - WARNING - Selección de rol inválida: + para usuario: 123
+2026-05-30 15:44:46,735 - INFO - Usuario registrado exitosamente: 123 : usuario
+2026-05-30 15:48:01,129 - WARNING - Intento de inicio de sesión con usuario bloqueado: admin
+2026-05-30 15:48:16,046 - WARNING - Intento de inicio de sesión con usuario bloqueado: admin
+2026-05-30 15:50:25,178 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:02,243 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:03,121 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:03,939 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:24,584 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:24,778 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:24,960 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:25,105 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:25,206 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:25,545 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:26,456 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:26,643 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 15:53:26,810 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:26,956 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 15:53:27,138 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:27,283 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:27,443 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:27,607 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:27,777 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:27,938 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,067 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,221 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,433 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,552 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,678 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,875 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:28,985 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:29,147 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:29,295 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:29,450 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:29,595 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:29,921 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,072 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,216 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,379 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,530 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,658 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,826 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:30,989 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:31,108 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:31,272 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:31,437 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:31,568 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:31,715 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:31,864 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:32,002 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:53:32,133 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:56:43,471 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:18,301 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 15:57:27,815 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:29,149 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:29,608 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:30,722 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:31,231 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:31,624 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:31,893 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:32,129 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:32,296 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:57:32,474 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:58:15,420 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:58:15,421 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 15:59:15,968 - WARNING - Usuario no encontrado: admin
+2026-05-30 15:59:16,831 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 15:59:23,992 - WARNING - Usuario no encontrado: admin
+2026-05-30 15:59:39,732 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 15:59:49,576 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 15:59:49,577 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:12,962 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:12,964 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:27,688 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:27,690 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:31,150 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:31,151 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:32,451 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:32,452 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:33,599 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:33,600 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:34,191 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:34,192 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:00:34,400 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:00:34,401 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:01:26,267 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:01:26,268 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:04:52,720 - WARNING - Usuario no encontrado: admin
+2026-05-30 16:05:07,771 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:05:07,772 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:05:09,641 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:05:09,642 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:05:10,613 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:05:10,613 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:06:35,788 - WARNING - Intento de inicio de sesión con usuario bloqueado: admin
+2026-05-30 16:06:38,822 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 16:15:51,389 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:52,641 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:53,510 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:53,511 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:54,701 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 16:15:55,488 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:55,489 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:56,815 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:56,816 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:57,210 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:57,211 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:57,422 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:57,423 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:57,619 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:57,620 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:57,758 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:57,759 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:57,927 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:57,928 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:58,084 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:58,085 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:58,245 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:58,246 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:58,392 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:58,393 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:58,546 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:58,547 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:58,669 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 16:15:58,803 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:58,804 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:58,955 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:58,956 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:59,108 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:59,110 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:59,247 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:59,248 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:59,385 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:59,386 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:59,517 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 16:15:59,673 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:59,673 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:59,826 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:59,827 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:15:59,966 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:15:59,966 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:16:00,073 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 16:16:00,225 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:16:00,226 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:16:00,371 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:16:00,372 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:16:00,511 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:16:00,512 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:16:00,663 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:16:00,665 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:16:00,859 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:16:00,860 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:17:43,708 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:17:43,709 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:18:00,725 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:18:00,725 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:20:55,830 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:21:09,750 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:21:10,449 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:21:10,449 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:23:52,043 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:23:52,044 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:24:52,118 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:24:52,120 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 16:25:50,785 - WARNING - Usuario ingresó una opción no numérica en el menú principal.
+2026-05-30 16:26:02,156 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 16:26:02,158 - WARNING - Intentos fallidos para administrador: admin
+2026-05-30 19:13:48,968 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:49,986 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:50,739 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:50,740 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:51,288 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:51,288 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:51,490 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:51,491 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:51,652 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:51,652 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:51,827 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:51,828 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:51,940 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 19:13:52,116 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:52,117 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:52,237 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:52,238 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:52,426 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:52,426 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:53,468 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 19:13:53,640 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:53,641 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:53,827 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:53,828 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:53,985 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:53,985 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:54,087 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 19:13:54,298 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:13:54,298 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:13:54,454 - WARNING - Intento de inicio de sesión con contraseña vacía para usuario: admin
+2026-05-30 19:21:51,278 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:21:51,279 - WARNING - Intentos fallidos para administrador (bloqueado): admin
+2026-05-30 19:22:02,748 - WARNING - Intento de inicio de sesión con usuario bloqueado: admin
+2026-05-30 19:22:29,458 - WARNING - Usuario no encontrado: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Desktop/POKER/iniciar_sesion.py
+2026-05-30 19:22:54,372 - INFO - Inicio de sesión exitoso: admin
+2026-05-30 19:23:01,771 - INFO - Administrador cerró sesión.
+2026-05-30 19:23:06,987 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:23:07,839 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:23:08,437 - WARNING - Contraseña incorrecta para usuario: admin
+2026-05-30 19:23:08,437 - WARNING - Administrador superó el límite de intentos fallidos: admin

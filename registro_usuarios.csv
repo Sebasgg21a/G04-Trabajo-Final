@@ -1,0 +1,6 @@
+USUARIO,CONTRASEÑA,ROL,ESTADO,INTENTOS_FALLIDOS
+admin,admin123,administrador,activo,3
+admin12,admin123,administrador,activo,0
+juan,123456,usuario,activo,0
+sebas,123456,usuario,activo,0
+123,@15485225err,usuario,activo,0
